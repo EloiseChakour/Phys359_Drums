@@ -1,0 +1,19 @@
+/soundcard.tab_in.settings/Iterations	1
+/soundcard.tab_in.settings/Iterations|expanded	True
+/soundcard.tab_in.settings/Rate	'44100'
+/soundcard.tab_in.settings/Rate|expanded	True
+/soundcard.tab_in.settings/Samples	4410.0
+/soundcard.tab_in.settings/Samples|expanded	True
+/soundcard.tab_in.settings/Time	0.1
+/soundcard.tab_in.settings/Time|expanded	True
+/soundcard.tab_in.settings/Trigger	'Continuous'
+/soundcard.tab_in.settings/Trigger|expanded	True
+/soundcard.tab_in.settings/Trigger/Level	0.0
+/soundcard.tab_in.settings/Trigger/Level|expanded	True
+/soundcard.tab_in.settings/Trigger/Hysteresis	0.0
+/soundcard.tab_in.settings/Trigger/Hysteresis|expanded	True
+/soundcard.tab_in.settings/Trigger/Mode	'Rising Edge'
+/soundcard.tab_in.settings/Trigger/Mode|expanded	True
+/soundcard.tab_in.settings/Trigger/Stay_Triggered	True
+/soundcard.tab_in.settings/Trigger/Stay_Triggered|expanded	True
+
